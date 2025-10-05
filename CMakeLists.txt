@@ -82,7 +82,6 @@ set(PROJECT_FILES
     ${STM32_SGL_PATH}/draw/sgl_draw_rect.c
     ${STM32_SGL_PATH}/draw/sgl_draw_ring.c
     ${STM32_SGL_PATH}/draw/sgl_draw_text.c
-    ${STM32_SGL_PATH}/draw/sgl_draw.c
     ${STM32_SGL_PATH}/fonts/sgl_ascii_song23.c
     ${STM32_SGL_PATH}/mm/other/sgl_mm.c
     ${STM32_SGL_PATH}/widgets/arc/sgl_arc.c
