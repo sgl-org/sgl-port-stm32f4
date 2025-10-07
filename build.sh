@@ -22,7 +22,6 @@
 # SOFTWARE.
 #
 
-options+=" -DHOST_C_COMPILER=/bin/gcc"
 options+=" -DENABLE_EXAMPLES=ON"
 options+=" -DCMAKE_BUILD_TYPE=Release"
 options+=" -DCMAKE_EXPORT_COMPILE_COMMANDS=ON"
